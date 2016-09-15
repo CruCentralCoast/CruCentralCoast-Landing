@@ -1,4 +1,8 @@
 RewriteEngine on
+RewriteCond %{HTTP_HOST} ^crucentralcoast\.slocru\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.crucentralcoast\.slocru\.com$
+RewriteRule ^/?$ "http\:\/\/crucentralcoast\.com\/" [R=301,L]
+
 RewriteCond $1 !^(index\.php|images|robots\.txt|assets)
 RewriteRule ^(.*)$ /index.php/$1 [L]
 #RewriteEngine on

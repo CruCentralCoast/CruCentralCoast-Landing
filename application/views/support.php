@@ -6,12 +6,12 @@ $this->load->helper('url');
     <head>
         <title>Cru Central Coast</title>
         <link rel="icon" type="image/png" href="../../../assets/img/logo2.png">
-        <link href="../assets/css/landing.css" rel="stylesheet" type="text/css">
+        <link href="../assets/css/support.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <!--<img src="../assets/css/img/"> -->
 
-        <h5>App Support</h5>
+        <h3>App Support</h3>
         <ol>
             <li class="topic-header">General Use</li>
             <ul>

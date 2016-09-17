@@ -173,9 +173,9 @@ $this->load->helper('url');
         </ol>
 
         <div class="footer">
-            <a href="https://slo.crucentralcoast.com/about">About Us</a>
-            <a href="https://slo.crucentralcoast.com/construction">Terms of Service</a>
-            <a href="https://crucentralcoast.com">Our Ministries</a>
+            <a href="http://slo.crucentralcoast.com/about">About Us</a>
+            <a href="http://slo.crucentralcoast.com/construction">Terms of Service</a>
+            <a href="http://crucentralcoast.com">Our Ministries</a>
         </div>
     </body>
 </html>

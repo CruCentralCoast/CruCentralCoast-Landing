@@ -170,11 +170,14 @@ $this->load->helper('url');
                     If you have further questions regarding the use of the Cru Central Coast App or have suggestions on how to make it better, please contact our developer.
                 </p>
             </div>
+            <form>
+
+            </form>
         </ol>
 
         <div class="footer">
-            <a href="http://slo.crucentralcoast.com/about">About Us</a>
-            <a href="http://slo.crucentralcoast.com/construction">Terms of Service</a>
+            <a href="http://slo.crucentralcoast.com/about">About Us</a> |
+            <a href="http://slo.crucentralcoast.com/construction">Terms of Service</a> |
             <a href="http://crucentralcoast.com">Our Ministries</a>
         </div>
     </body>

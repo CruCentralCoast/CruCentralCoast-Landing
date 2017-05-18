@@ -26,7 +26,7 @@ $this->load->helper('url');
             <a href="https://www.facebook.com/groups/epicslo/">
                 <img src="../assets/img/landing/epic.png" class="ministry"><img>
             </a>
-            <a href="https://www.facebook.com/groups/86209282438/">
+            <a href="https://www.facebook.com/groups/calpolydestino/">
                 <img src="../assets/img/landing/destino.png" class="ministry"><img>
             </a>
             <a href="https://www.facebook.com/greekrowcalpolyslo/">
